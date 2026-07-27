@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
 
-#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
-
 #EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
 
