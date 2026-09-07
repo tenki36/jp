@@ -13,10 +13,6 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
 #EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="日本 / Japan",フジテレビ
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
-#EXTINF:-1 tvg-id="JOCXDTV.jp@SD",JOCX-DTV
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="TOKYO-MX.jp",TOKYO MX
-https://mov3.co/hls/tokyomx.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png" tvg-id="NHKBS.jp" tvg-chno="BS101" tvg-country="JP" group-title="日本 / Japan",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 #EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="https://i.imgur.com/uvPpFo5.png" tvg-id="NHKBSP4K.jp" tvg-chno="BS4K101" tvg-country="JP" group-title="日本 / Japan",NHK BSP4K
