@@ -1,4 +1,6 @@
 #EXTM3U
+# 일본 IPTV - 화질 좋고 나오는 채널만 통합 (2026-09-12)
+# 3개 리스트 병합 + 응답 재확인 / 도쿄 지상파 우선
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png" group-title="01. 도쿄 지상파",NHK 종합 (1080p)
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png" group-title="01. 도쿄 지상파",NHK 종합 (HEVC 1080p)
