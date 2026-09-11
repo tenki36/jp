@@ -3,8 +3,8 @@
 ############################
 # 東京地上波 / Tokyo Terrestrial — priority
 ############################
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp@SD",NHK General TV (NHK G / Tokyo)
-https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 #EXTINF:-1 tvg-id="JOAXDTV.jp@SD",Nippon TV (NTV)
 https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp@SD",TV Asahi
