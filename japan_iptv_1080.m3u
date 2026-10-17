@@ -1,0 +1,52 @@
+#EXTM3U
+# 일본 IPTV - 닛폰TV 수정 + 최고 화질 우선 (2026-10-18)
+# ※ 무료 지상파 미러는 대부분 540p~720p입니다. 진짜 1080p는 NHK 종합(tsb-mega)과 NHK World 정도만 안정적입니다.
+# 중국 광고 많은 netgenx 프록시는 최소화했습니다.
+
+# ===== 도쿄 지상파 =====
+#EXTINF:-1 tvg-name="NHK総合 (東京) 1080p" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" group-title="01. 도쿄 지상파",NHK総合 (東京) 1080p AVC
+https://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+#EXTINF:-1 tvg-name="NHK総合 (東京) 1080p HEVC" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" group-title="01. 도쿄 지상파",NHK総合 (東京) 1080p HEVC
+https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+#EXTINF:-1 tvg-name="NHK総合 (東京)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" group-title="01. 도쿄 지상파",NHK総合 (東京) mov3
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" group-title="01. 도쿄 지상파",日本テレビ (NTV)
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" group-title="01. 도쿄 지상파",TBSテレビ
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://i.imgur.com/5XnMfcR.png" tvg-id="JOEXDTV.jp" tvg-chno="D051" group-title="01. 도쿄 지상파",テレビ朝日
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" group-title="01. 도쿄 지상파",フジテレビ
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" group-title="01. 도쿄 지상파",テレビ東京
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+
+# ===== NHK World (공식 1080p) =====
+#EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" group-title="02. NHK World",NHK WORLD JAPAN 1080p
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD JAPAN Tokyo" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" group-title="02. NHK World",NHK WORLD JAPAN Tokyo
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD JAPAN Osaka" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" group-title="02. NHK World",NHK WORLD JAPAN Osaka
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+# ===== 뉴스 / 날씨 / MX (Rakuten·공식) =====
+#EXTINF:-1 tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" group-title="03. 뉴스/날씨",ウェザーニュースLiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="rch_47" group-title="03. 뉴스/날씨",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="rch_108" group-title="03. 뉴스/날씨",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" tvg-id="rch_115" group-title="03. 뉴스/날씨",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="03. 뉴스/날씨",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
+# ===== 쇼핑 (공식) =====
+#EXTINF:-1 tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" tvg-id="ShopChannel.jp" group-title="04. 쇼핑",ショップチャンネル
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/FznYA39.png" tvg-id="QVC.jp" group-title="04. 쇼핑",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-name="QVC 1080p" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVC.jp" group-title="04. 쇼핑",QVC 1080p
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-id="GSTV.jp" group-title="04. 쇼핑",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
