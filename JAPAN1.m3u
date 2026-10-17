@@ -10,6 +10,10 @@ https://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 #EXTINF:-1 tvg-name="NHK総合 (東京)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" group-title="01. 도쿄 지상파",NHK総合 (東京) mov3
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NHK Eテレ（東京）" tvg-logo="https://i.imgur.com/WxtftlO.png" tvg-id="JOABDTV.jp" tvg-chno="D021" group-title="01. 도쿄 지상파",NHK Eテレ（東京）
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-name="NHK Eテレ（東京） backup" tvg-logo="https://i.imgur.com/WxtftlO.png" tvg-id="JOABDTV.jp" tvg-chno="D021" group-title="01. 도쿄 지상파",NHK Eテレ（東京） backup
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
 #EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" group-title="01. 도쿄 지상파",日本テレビ (NTV)
 https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" group-title="01. 도쿄 지상파",TBSテレビ
